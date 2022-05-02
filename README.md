@@ -1,1 +1,3 @@
-# Footprints
+# 엄민영의 Footprints
+
+##  진행했던 프로젝트를 기록하는 저장소입니다.
